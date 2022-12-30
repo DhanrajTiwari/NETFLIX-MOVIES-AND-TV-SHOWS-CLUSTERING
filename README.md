@@ -8,4 +8,4 @@ In this project i used some of the tools such as Text processing, K-Means Cluste
 
 Conclusion
 
-
+My model is working well at the n_clusters = 3 which is 0.355.
