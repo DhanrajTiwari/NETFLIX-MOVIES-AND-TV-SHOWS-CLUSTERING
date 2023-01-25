@@ -25,7 +25,7 @@ rating: TV Rating of the movie/show
 
 duration: Total Duration - in minutes or number of seasons
 
-listed_in : Genere
+listed_in : Genre
 
 description: The Summary description
 
